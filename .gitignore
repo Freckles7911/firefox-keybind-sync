@@ -1,0 +1,17 @@
+# Exported Firefox keybind bundles and browser databases
+firefox_keybind_bundle/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
